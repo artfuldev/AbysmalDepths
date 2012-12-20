@@ -1,0 +1,5 @@
+You open your eyes. Everything around you looks hazy. There seems to be so less light that you have to squint. You try to move your arms and legs. Surprisingly, they don't. 'That's funny', you think. 'I've been able to do that all my life! 'You turn around to see a rotting skull to your right. Arms and legs tied, same as you, someone else has died there long before. The stench suddenly gets to you. You find it nauseating and look up, at the sun, and know that you're in some deep hole, with no light, and tied up a prisoner.
+A unique smell strikes you. You find that the ropes are wet. From kerosene. You hear some faint shouting in the distance. You look up to see the source. An arrow heads your way. It's head is burning. Its a fire arrow. You're going to burn...
+1.You try to wriggle out and escape.
+2.You decide to pay for what you've done and take it like a man.
+3.You stay calm as you figure out what to do next.[monster goblin 2 >Story02
