@@ -1,5 +1,6 @@
 Abysmal Depths v1.0
 by Kenshin Himura, Copyright 2012-13
+ReadMe Version 1.0
 
 This is a game engine which uses certain story files to drive a text-based adventure game with numeric inputs from users, always taking only a maximum of three choices. There is no limit on the length of the story included. The only constraint is that you should propely index and link to all of the storyfiles in an arc.
 
