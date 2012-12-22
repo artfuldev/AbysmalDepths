@@ -1,5 +1,5 @@
 Abysmal Depths v1.0
-by Kenshin Himura, CC-BY-NC-SA License (see License.txt)
+by Kenshin Himura, governed by GNU GPL and CC-BY-NC-SA Licenses (see gpl.txt and ccbyncsa.txt)
 ReadMe Version 1.1
 
 This is a game engine which uses certain story files to drive a text-based adventure game with numeric inputs from users, always taking only a maximum of three choices (which can be extended in future versions). There is no limit on the length of the story included. The only constraint is that you should propely index and link to all of the storyfiles in an arc.
