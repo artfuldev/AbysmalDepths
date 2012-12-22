@@ -1,0 +1,4 @@
+This is first story.
+1.Choice 1
+2.Choice 2
+3.Choice 3
