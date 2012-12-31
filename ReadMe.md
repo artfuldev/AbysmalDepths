@@ -2,7 +2,7 @@
 * Author: Kenshin Himura *(Sudarsan Balaji)*
 * License: *GNU GPL v3 and CC-BY-NC-SA Licenses* (see gpl.txt and ccbyncsa.txt)
 * Application Version: 1.0
-* ReadMe Version: 1.1
+* ReadMe Version: 1.2
 
 ##Description
 This is a game engine which uses certain story files to drive a text-based adventure game with numeric inputs from users, always taking only a maximum of three choices (which can be extended in future versions). There is no limit on the length of the story included. The only constraint is that you should propely index and link to all of the storyfiles in an arc.
@@ -23,11 +23,11 @@ Here is the structure to follow:
 * Each choice in the choiceFile should also have a >nextStoryFileName at the END
 
 ##Other Notes
-Also, to instantiate a monster, a tag
+* Also, to instantiate a monster, a tag
 [monster monsterName monsterLevel
 should be added anywhere in the story file
-[c tag is used at the end of the choice in the choice file to indicate start of combat
-[e tag is used to indicate start of escape by userHero
+* [c tag is used at the end of the choice in the choice file to indicate start of combat
+* [e tag is used to indicate start of escape by userHero
 
 ##Visions
 * To create a parser instead of a choice-based input.
