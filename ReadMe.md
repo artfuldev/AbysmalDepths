@@ -1,8 +1,8 @@
 #Abysmal Depths
 * Author: Kenshin Himura *(Sudarsan Balaji)*
-* License: *GNU GPL v3* (see COPYING.txt)
+* License: *GNU GPL v3* (see COPYING.texi)
 * Application Version: 1.0
-* ReadMe Version: 1.4
+* ReadMe Version: 1.5
 
 ##Description
 This is a game engine which uses certain story files to drive a text-based adventure game with numeric inputs from users, always taking only a maximum of three choices (which can be extended in future versions). There is no limit on the length of the story included. The only constraint is that you should propely index and link to all of the storyfiles in an arc.
